@@ -18,8 +18,6 @@ My modifications and additions included -
     * Uses `ffmpeg` to create mp4 files
     * Automatic start and stop of snapshots, and movie creation
     * Camera name can be optionally over layed onto the snapshots
-
-
 * Configurable 
     * Individual Camera info - 
         * IP address
