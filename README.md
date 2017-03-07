@@ -10,7 +10,7 @@ Here's a link to the Gist I used -
 
 My modifications and additions included - 
 
-* Functionality - 
+* Functionality
     * Individual cameras can be used by creating a configuration file
     * Pan/Tilt the camera for preset "snapshot" and "home" positions
     * Time stamps are selectable for image file names, and to overlay onto the snapshots.
@@ -19,7 +19,8 @@ My modifications and additions included -
     * Automatic start and stop of snapshots, and movie creation
     * Camera name can be optionally over layed onto the snapshots
 
-* Configurable - 
+
+* Configurable 
     * Individual Camera info - 
         * IP address
         * login and password
