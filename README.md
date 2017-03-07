@@ -1,6 +1,6 @@
 # foscam-bash
 
-This project evolved from trying to fulfill several tasks. I wanted to learn bash, experiment with an IP camera API, and get some additional experience with the Linux command line. At first I didn't plan on combining my efforts. It was *by accident* that stumbled across a *Gist* with a shell script that accessed the same IP camera that I currently use.
+This project evolved from trying to fulfill several tasks. I wanted to learn bash, experiment with an IP camera API, and get some additional experience with the Linux command line. At first I didn't plan on combining my efforts. It was *by accident* that stumbled across a *Gist* with a shell script that accessed the same brand & model IP camera that I currently use.
 
 And that original bit of shell script did *almost* everything I needed it to do. So I used it as a starting point and ended up creating what you see in this repository.
 
@@ -54,9 +54,9 @@ And `./snapshots` is the path to where you want the snapshots saved, and optiona
 
 ## Platform Details
 
-Hardware : An old Dell PC that I re-purposed for learning Linux.
-OS : Centos 6 Server
-Camera : Foscom 8910 IP PTZ Camera
+* Hardware : An old Dell PC that I re-purposed for learning Linux.
+* OS : Centos 6 Server
+* Camera : Foscom 8910 IP PTZ Camera
 
 # File Structure
 
