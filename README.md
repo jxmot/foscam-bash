@@ -54,7 +54,7 @@ And `./snapshots` is the path to where you want the snapshots saved, and optiona
 
 * Hardware : An old Dell PC that I re-purposed for learning Linux.
 * OS : Centos 6 Server
-* Camera : Foscom 8910 IP PTZ Camera
+* Camera : Foscam 8910 IP PTZ Camera
 
 # File Structure
 
