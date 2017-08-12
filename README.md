@@ -17,7 +17,7 @@ My modifications and additions included -
     * Automatic creation of an output folder
     * Uses `ffmpeg` to create mp4 files
     * Automatic start and stop of snapshots, and movie creation
-    * Camera name can be optionally over layed onto the snapshots
+    * Camera name can be optionally overlaid onto the snapshots
 * Configuration 
     * Individual Camera info - 
         * IP address
